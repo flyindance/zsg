@@ -1,0 +1,40 @@
+2017-10-28 23:47:15,288 [main@zmyth.xlib.Start] INFO  zmyth.back.Main - start, parse file=server.xml
+2017-10-28 23:47:15,302 [main@zmyth.xlib.Start] INFO  zmyth.back.Main - start, parse file=[resource]serverconfig.xml
+2017-10-28 23:47:15,696 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - creatTable:source_output_log_20171028
+2017-10-28 23:47:15,757 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - creatTable:gold_consume_log_20171028
+2017-10-28 23:47:15,822 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - creatTable:source_consume_log_20171028
+2017-10-28 23:47:15,882 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - creatTable:prop_consume_log_20171028
+2017-10-28 23:47:15,944 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - creatTable:player_info_20171028
+2017-10-28 23:47:16,007 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - creatTable:military_expoutput_lot_20171028
+2017-10-28 23:47:16,071 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - creatTable:build_uplevel_log_20171028
+2017-10-28 23:47:16,134 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - creatTable:ginger_output_log_20171028
+2017-10-28 23:47:16,194 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - creatTable:ginger_consume_log_20171028
+2017-10-28 23:47:16,255 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - creatTable:recruit_output_log_20171028
+2017-10-28 23:47:16,317 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - creatTable:recruit_consume_log_20171028
+2017-10-28 23:47:16,377 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - creatTable:fightsocre_consume_log_20171028
+2017-10-28 23:47:16,437 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - creatTable:gold_output_log_20171028
+2017-10-28 23:47:16,498 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - creatTable:prop_output_log_20171028
+2017-10-28 23:47:16,560 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - creatTable:fightsocre_output_log_20171028
+2017-10-28 23:47:16,621 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - creatTable:strength_log_20171028
+2017-10-28 23:47:16,673 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - deleteTable:source_output_log_20171013
+2017-10-28 23:47:16,731 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - deleteTable:gold_consume_log_20171013
+2017-10-28 23:47:16,787 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - deleteTable:source_consume_log_20171013
+2017-10-28 23:47:16,843 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - deleteTable:prop_consume_log_20171013
+2017-10-28 23:47:16,900 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - deleteTable:player_info_20171013
+2017-10-28 23:47:16,956 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - deleteTable:military_expoutput_lot_20171013
+2017-10-28 23:47:17,012 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - deleteTable:build_uplevel_log_20171013
+2017-10-28 23:47:17,071 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - deleteTable:ginger_output_log_20171013
+2017-10-28 23:47:17,129 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - deleteTable:ginger_consume_log_20171013
+2017-10-28 23:47:17,185 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - deleteTable:recruit_output_log_20171013
+2017-10-28 23:47:17,242 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - deleteTable:recruit_consume_log_20171013
+2017-10-28 23:47:17,311 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - deleteTable:fightsocre_consume_log_20171013
+2017-10-28 23:47:17,368 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - deleteTable:gold_output_log_20171013
+2017-10-28 23:47:17,424 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - deleteTable:prop_output_log_20171013
+2017-10-28 23:47:17,482 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - deleteTable:fightsocre_output_log_20171013
+2017-10-28 23:47:17,539 [main@zmyth.xlib.Start] INFO  logServer.CreatLogTableManager - deleteTable:strength_log_20171013
+2017-10-28 23:47:17,539 [main@zmyth.xlib.Start] INFO  zmyth.back.Main - start, parse file=[resource]serverport.xml
+2017-10-28 23:47:17,541 [main@zmyth.xlib.Start] INFO  zmyth.back.Main - 
+
+server is start!
+
+

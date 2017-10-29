@@ -1,0 +1,521 @@
+2017-10-28 23:50:29,940 [Thread-3@zmyth.back.Main] INFO  zmyth.net.JConnectFactory - loop, zmyth.net.JConnectFactory@6f34a7d8[size=0, executor=zlib.thread.TaskPoolExecutor@69f78ef1[active=true, run=0, size=2, maxSize=256], serialExecute=false, runTime=20, pingTime=20000, collateTime=30000]
+2017-10-28 23:50:29,941 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1 zmyth.net.EchoPort@73d6776d
+2017-10-28 23:50:29,942 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=2 zmyth.net.PingPort@65faba46
+2017-10-28 23:50:29,945 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=4 zmyth.net.DataAccessHandler@692a3722
+2017-10-28 23:50:29,946 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1 zmyth.net.EchoPort@5289cf1e
+2017-10-28 23:50:29,946 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=2 zmyth.net.PingPort@557ce4e7
+2017-10-28 23:50:29,946 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=4 zmyth.net.DataAccessHandler@692a3722
+2017-10-28 23:50:29,947 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=6 zmyth.net.TimePort@acfec48
+2017-10-28 23:50:29,948 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=11 zmyth.net.AttributePort@4ee1d5ea
+2017-10-28 23:50:29,948 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=21 zmyth.net.FilePort@690da5eb
+2017-10-28 23:50:29,948 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=22 zmyth.net.FilePort@7f081d2e
+2017-10-28 23:50:29,949 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=9 zmyth.net.CPort@1d5a0305
+2017-10-28 23:50:29,982 [main@zmyth.xlib.Start] INFO  zmyth.back.Main - start, parse file=server.xml
+2017-10-28 23:50:30,002 [main@zmyth.xlib.Start] INFO  zmyth.back.Main - start, parse file=[resource]start.xml
+2017-10-28 23:50:30,005 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/textvalidity.xml
+2017-10-28 23:50:30,017 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/chapters.xml
+2017-10-28 23:50:30,026 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/task.xml
+2017-10-28 23:50:30,147 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/duplicates.xml
+2017-10-28 23:50:30,161 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/effectbuffer.xml
+2017-10-28 23:50:30,325 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/citys.xml
+2017-10-28 23:50:30,330 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/builds.xml
+2017-10-28 23:50:30,346 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/buildarea.xml
+2017-10-28 23:50:30,351 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/players.xml
+2017-10-28 23:50:30,365 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/props.xml
+2017-10-28 23:50:30,501 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/material.xml
+2017-10-28 23:50:30,727 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/awards.xml
+2017-10-28 23:50:30,787 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/skills.xml
+2017-10-28 23:50:30,836 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/spreads.xml
+2017-10-28 23:50:30,839 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/effects.xml
+2017-10-28 23:50:30,900 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/soldier.xml
+2017-10-28 23:50:30,912 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/visit.xml
+2017-10-28 23:50:30,920 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/roadway.xml
+2017-10-28 23:50:30,958 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/worldcity.xml
+2017-10-28 23:50:31,090 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/militarys.xml
+2017-10-28 23:50:31,171 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/equipmentsuit.xml
+2017-10-28 23:50:31,174 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/official.xml
+2017-10-28 23:50:31,178 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/shopProps.xml
+2017-10-28 23:50:31,183 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/mallProps.xml
+2017-10-28 23:50:31,206 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/openGemHole.xml
+2017-10-28 23:50:31,209 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/equipmentskill.xml
+2017-10-28 23:50:31,212 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/activitys.xml
+2017-10-28 23:50:31,225 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/banneret.xml
+2017-10-28 23:50:31,239 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/countrytasks.xml
+2017-10-28 23:50:31,242 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/famousgeneral.xml
+2017-10-28 23:50:31,249 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]serverstatic.xml
+2017-10-28 23:50:31,314 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]openServerstatic.xml
+2017-10-28 23:50:31,326 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]serverconfig.xml
+2017-10-28 23:50:31,679 [main@zmyth.xlib.Start] WARN  zmyth.xml.MethodParser - normalParse error, null specify object, zlib.xml.Element@5fa80aea[count=3][line=294, name=method, attributes=2]
+2017-10-28 23:50:31,756 [main@zmyth.xlib.Start] WARN  zmyth.xml.MethodParser - normalParse error, null specify object, zlib.xml.Element@4a504ec1[count=3][line=860, name=method, attributes=2]
+2017-10-28 23:50:31,757 [main@zmyth.xlib.Start] WARN  game.country.CountryDBAccess - load union fail, 0 type=1
+2017-10-28 23:50:31,757 [main@zmyth.xlib.Start] ERROR game.country.CountryDBAccess - load fail, 0 type=1
+2017-10-28 23:50:31,778 [main@zmyth.xlib.Start] ERROR game.country.CountryDBAccess - load fail, 0 type=2
+2017-10-28 23:50:31,787 [main@zmyth.xlib.Start] ERROR game.country.CountryDBAccess - load fail, 0 type=3
+2017-10-28 23:50:31,877 [main@zmyth.xlib.Start] WARN  zmyth.orm.SqlKit - querys error, sql=select * from `cityfight zmyth.orm.ConnectionProxy@5918cb3a[used=true, usedCount=272, usedTime=1509205831864, com.mysql.jdbc.JDBC4Connection@6ac67a88] select=-1
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`cityfight' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1030)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3491)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3423)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1936)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2060)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2536)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2465)
+	at com.mysql.jdbc.StatementImpl.executeQuery(StatementImpl.java:1383)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:182)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:150)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:138)
+	at game.country.WorldMapCityFightDBAccess.getAllCityFight(WorldMapCityFightDBAccess.java:76)
+	at game.country.WorldMapCityFightManager.init(WorldMapCityFightManager.java:131)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at zlib.field.FieldKit.invoke(FieldKit.java:341)
+	at zmyth.xml.MethodParser.normalParse(MethodParser.java:150)
+	at zmyth.xml.NormalParser.parse(NormalParser.java:110)
+	at zmyth.xml.ObjectsParser.parseLoad(ObjectsParser.java:93)
+	at zmyth.xml.ObjectsParser.parseMacro(ObjectsParser.java:58)
+	at zmyth.xml.ObjectsParser.parse(ObjectsParser.java:37)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:430)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:423)
+	at zmyth.xml.FileParser.parse(FileParser.java:28)
+	at zmyth.xml.ObjectsParser.parseLoad(ObjectsParser.java:93)
+	at zmyth.xml.ObjectsParser.parseMacro(ObjectsParser.java:58)
+	at zmyth.xml.ObjectsParser.parse(ObjectsParser.java:37)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:430)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:423)
+	at zmyth.back.Main.start(Main.java:264)
+	at zmyth.back.Main.run(Main.java:79)
+	at zmyth.xlib.Start.run(Start.java:134)
+	at zmyth.xlib.Start.main(Start.java:60)
+2017-10-28 23:50:31,888 [main@zmyth.xlib.Start] WARN  zmyth.xml.MethodParser - normalParse error, method invoke, zlib.xml.Element@a2a987d[count=0][line=866, name=method, attributes=2]
+java.lang.RuntimeException: zlib.field.FieldKit invoke, invoke, class=game.country.WorldMapCityFightManager, object=game.country.WorldMapCityFightManager@7a578dfb, methodName=init args=0
+	at zlib.field.FieldKit.invoke(FieldKit.java:346)
+	at zmyth.xml.MethodParser.normalParse(MethodParser.java:150)
+	at zmyth.xml.NormalParser.parse(NormalParser.java:110)
+	at zmyth.xml.ObjectsParser.parseLoad(ObjectsParser.java:93)
+	at zmyth.xml.ObjectsParser.parseMacro(ObjectsParser.java:58)
+	at zmyth.xml.ObjectsParser.parse(ObjectsParser.java:37)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:430)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:423)
+	at zmyth.xml.FileParser.parse(FileParser.java:28)
+	at zmyth.xml.ObjectsParser.parseLoad(ObjectsParser.java:93)
+	at zmyth.xml.ObjectsParser.parseMacro(ObjectsParser.java:58)
+	at zmyth.xml.ObjectsParser.parse(ObjectsParser.java:37)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:430)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:423)
+	at zmyth.back.Main.start(Main.java:264)
+	at zmyth.back.Main.run(Main.java:79)
+	at zmyth.xlib.Start.run(Start.java:134)
+	at zmyth.xlib.Start.main(Start.java:60)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at zlib.field.FieldKit.invoke(FieldKit.java:341)
+	... 17 more
+Caused by: java.lang.RuntimeException: zmyth.orm.SqlKit querys, sql=select * from `cityfight
+	at zmyth.orm.SqlKit.querys(SqlKit.java:208)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:150)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:138)
+	at game.country.WorldMapCityFightDBAccess.getAllCityFight(WorldMapCityFightDBAccess.java:76)
+	at game.country.WorldMapCityFightManager.init(WorldMapCityFightManager.java:131)
+	... 22 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`cityfight' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1030)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3491)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3423)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1936)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2060)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2536)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2465)
+	at com.mysql.jdbc.StatementImpl.executeQuery(StatementImpl.java:1383)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:182)
+	... 26 more
+2017-10-28 23:50:33,790 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]serverport.xml
+2017-10-28 23:50:33,806 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=211 game.port.LoginAccessPort@1becb1b2
+2017-10-28 23:50:33,807 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=212 game.port.LoadAccessPort@188def5d
+2017-10-28 23:50:33,807 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=6 zmyth.net.TimePort@e5dcf43
+2017-10-28 23:50:33,808 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=213 game.port.ExitPort@3b2b116f
+2017-10-28 23:50:33,808 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1000 game.port.SendMessagePort@885acc2
+2017-10-28 23:50:33,809 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1001 game.port.MailAccessPort@10f8ed
+2017-10-28 23:50:33,810 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1003 game.port.BundlePort@73a3d5c3
+2017-10-28 23:50:33,811 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1005 game.port.BuildAccessPort@9273085
+2017-10-28 23:50:33,811 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1006 game.port.ShopPort@10c68663
+2017-10-28 23:50:33,812 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1007 game.port.EquipmentPort@4e4dd5a1
+2017-10-28 23:50:33,813 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1008 game.port.MilitaryAccessPort@58046530
+2017-10-28 23:50:33,814 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1009 game.port.TaskAccessPort@7cc3feb6
+2017-10-28 23:50:33,814 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1010 game.port.DailyTaskAccessPort@38c5564e
+2017-10-28 23:50:33,816 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1012 game.port.FriendsPort@51ea07a3
+2017-10-28 23:50:33,818 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1013 game.port.DuplicateAccessPort@52248adb
+2017-10-28 23:50:33,819 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1014 game.port.MallPort@6ffeea62
+2017-10-28 23:50:33,821 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1015 game.port.SoldierAccessPort@396c006e
+2017-10-28 23:50:33,822 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1016 game.port.VisitAccessPort@76dbab83
+2017-10-28 23:50:33,823 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1017 game.port.SciencePort@7436ef21
+2017-10-28 23:50:33,824 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1018 game.port.RankListPort@10115870
+2017-10-28 23:50:33,825 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1019 game.port.ScienceCountryPort@a5347c3
+2017-10-28 23:50:33,826 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1021 game.port.OfficialPort@546a16d4
+2017-10-28 23:50:33,827 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1022 game.port.WorldFightAccessPort@2515272a
+2017-10-28 23:50:33,829 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1023 game.port.MilitaryPassiveAccessPort@2e888d65
+2017-10-28 23:50:33,830 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1025 game.port.FightLogAccessPort@3b8a9e64
+2017-10-28 23:50:33,831 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1026 game.port.ActivityDateAccessPort@42db3da
+2017-10-28 23:50:33,843 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1027 game.port.CountryInfoPort@180f471e
+2017-10-28 23:50:33,845 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1029 game.port.AllHeroFightActivityAccessPort@515b6c19
+2017-10-28 23:50:33,954 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1030 game.port.GiftPackageAccessPort@19ba67ec
+2017-10-28 23:50:33,967 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1031 game.port.EquipmentPolishedPort@7e24f937
+2017-10-28 23:50:33,975 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1032 game.port.VipAccessPort@14c8cdca
+2017-10-28 23:50:33,976 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1034 game.port.DayFightScoreAccessPort@739495b8
+2017-10-28 23:50:33,977 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1035 game.port.NoticeAccessPort@2d7fff1f
+2017-10-28 23:50:33,978 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1036 game.port.GuideAccessPort@32725f0e
+2017-10-28 23:50:33,979 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1037 game.port.OperatorActivityAccessPort@73f025cb
+2017-10-28 23:50:33,980 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1038 game.port.OnlineGiftAccessPort@6495a1b6
+2017-10-28 23:50:33,981 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1039 game.port.ContributeActivityAccessPort@32df8508
+2017-10-28 23:50:33,982 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1040 game.port.CountryCityActivityAccessPort@43f12248
+2017-10-28 23:50:33,990 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1042 game.port.EmperorActivityAccessPort@573b7064
+2017-10-28 23:50:33,991 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1041 game.port.CountryTaskAsscessPort@7f4fe1f9
+2017-10-28 23:50:33,992 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1043 game.port.CimeliaAccessPort@7a4b35d5
+2017-10-28 23:50:33,992 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1044 game.port.WillGetAwardPort@b24044e
+2017-10-28 23:50:33,993 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1045 game.port.TotalLoginActivityAccessPort@208cdf50
+2017-10-28 23:50:33,993 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1047 game.port.CardAccessPort@405e70bc
+2017-10-28 23:50:33,994 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1046 game.port.OpenActivityAccessPort@412429c
+2017-10-28 23:50:33,995 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1048 game.port.GambleAccessProt@67392596
+2017-10-28 23:50:33,995 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]gmconfig.xml
+2017-10-28 23:50:34,034 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/shop.xml
+2017-10-28 23:50:34,040 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/strengtheffect.xml
+2017-10-28 23:50:34,051 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/mall.xml
+2017-10-28 23:50:34,055 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/fightteam.xml
+2017-10-28 23:50:35,074 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/worldfight.xml
+2017-10-28 23:50:35,082 [main@zmyth.xlib.Start] WARN  zmyth.xml.MethodParser - normalParse error, null specify object, zlib.xml.Element@413eabd9[count=3][line=94, name=method, attributes=2]
+2017-10-28 23:50:35,101 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/activityDate.xml
+2017-10-28 23:50:35,309 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]bsh.xml
+2017-10-28 23:50:35,612 [Thread-11@zmyth.timer.TimerThread@1690235745/4000] WARN  zmyth.net.NBConnectProducer - collate error, url=zlib.net.URL@59c59535[tcp://127.0.0.1:8104/]
+zlib.net.DataAccessException:CLIENT_IO_ERROR, address=tcp://127.0.0.1:8104/, zmyth.net.NBTcpConnect open, ConnectException
+	at zmyth.net.NBTcpConnect.open(NBTcpConnect.java:302)
+	at zmyth.net.JConnectFactory.openTcpConnect(JConnectFactory.java:275)
+	at zmyth.net.JConnectFactory.openInstance(JConnectFactory.java:257)
+	at zmyth.net.JConnectFactory.getInstance(JConnectFactory.java:248)
+	at zlib.net.ConnectFactory.getConnect(ConnectFactory.java:46)
+	at zmyth.back.NBConnectRegisterProducer.getConnect(NBConnectRegisterProducer.java:52)
+	at zmyth.net.NBConnectProducer.collate(NBConnectProducer.java:106)
+	at zmyth.back.TimeNBConnectRegisterProducer.collate(TimeNBConnectRegisterProducer.java:47)
+	at zmyth.net.NBConnectProducer.onTimer(NBConnectProducer.java:90)
+	at zmyth.timer.TimerEvent.fire(TimerEvent.java:182)
+	at zmyth.timer.TimerThread.run(TimerThread.java:122)
+2017-10-28 23:50:35,613 [Thread-11@zmyth.timer.TimerThread@1690235745/4000] WARN  zmyth.net.NBConnectProducer - collate error, url=zlib.net.URL@59c59533[tcp://127.0.0.1:8102/]
+zlib.net.DataAccessException:CLIENT_IO_ERROR, address=tcp://127.0.0.1:8102/, zmyth.net.NBTcpConnect open, ConnectException
+	at zmyth.net.NBTcpConnect.open(NBTcpConnect.java:302)
+	at zmyth.net.JConnectFactory.openTcpConnect(JConnectFactory.java:275)
+	at zmyth.net.JConnectFactory.openInstance(JConnectFactory.java:257)
+	at zmyth.net.JConnectFactory.getInstance(JConnectFactory.java:248)
+	at zlib.net.ConnectFactory.getConnect(ConnectFactory.java:46)
+	at zmyth.back.NBConnectRegisterProducer.getConnect(NBConnectRegisterProducer.java:52)
+	at zmyth.net.NBConnectProducer.collate(NBConnectProducer.java:106)
+	at zmyth.back.TimeNBConnectRegisterProducer.collate(TimeNBConnectRegisterProducer.java:47)
+	at zmyth.net.NBConnectProducer.onTimer(NBConnectProducer.java:90)
+	at zmyth.timer.TimerEvent.fire(TimerEvent.java:182)
+	at zmyth.timer.TimerThread.run(TimerThread.java:122)
+2017-10-28 23:50:35,667 [main@zmyth.xlib.Start] INFO  zmyth.back.Main - 
+
+server is start!
+
+
+2017-10-28 23:51:07,619 [Thread-11@zmyth.timer.TimerThread@1690235745/4000] WARN  zmyth.net.NBConnectProducer - collate error, url=zlib.net.URL@59c59535[tcp://127.0.0.1:8104/]
+zlib.net.DataAccessException:CLIENT_IO_ERROR, address=tcp://127.0.0.1:8104/, zmyth.net.NBTcpConnect open, ConnectException
+	at zmyth.net.NBTcpConnect.open(NBTcpConnect.java:302)
+	at zmyth.net.JConnectFactory.openTcpConnect(JConnectFactory.java:275)
+	at zmyth.net.JConnectFactory.openInstance(JConnectFactory.java:257)
+	at zmyth.net.JConnectFactory.getInstance(JConnectFactory.java:248)
+	at zlib.net.ConnectFactory.getConnect(ConnectFactory.java:46)
+	at zmyth.back.NBConnectRegisterProducer.getConnect(NBConnectRegisterProducer.java:52)
+	at zmyth.net.NBConnectProducer.collate(NBConnectProducer.java:106)
+	at zmyth.back.TimeNBConnectRegisterProducer.collate(TimeNBConnectRegisterProducer.java:47)
+	at zmyth.net.NBConnectProducer.onTimer(NBConnectProducer.java:90)
+	at zmyth.timer.TimerEvent.fire(TimerEvent.java:182)
+	at zmyth.timer.TimerThread.run(TimerThread.java:122)
+2017-10-28 23:51:07,620 [Thread-11@zmyth.timer.TimerThread@1690235745/4000] WARN  zmyth.net.NBConnectProducer - collate error, url=zlib.net.URL@59c59533[tcp://127.0.0.1:8102/]
+zlib.net.DataAccessException:CLIENT_IO_ERROR, address=tcp://127.0.0.1:8102/, zmyth.net.NBTcpConnect open, ConnectException
+	at zmyth.net.NBTcpConnect.open(NBTcpConnect.java:302)
+	at zmyth.net.JConnectFactory.openTcpConnect(JConnectFactory.java:275)
+	at zmyth.net.JConnectFactory.openInstance(JConnectFactory.java:257)
+	at zmyth.net.JConnectFactory.getInstance(JConnectFactory.java:248)
+	at zlib.net.ConnectFactory.getConnect(ConnectFactory.java:46)
+	at zmyth.back.NBConnectRegisterProducer.getConnect(NBConnectRegisterProducer.java:52)
+	at zmyth.net.NBConnectProducer.collate(NBConnectProducer.java:106)
+	at zmyth.back.TimeNBConnectRegisterProducer.collate(TimeNBConnectRegisterProducer.java:47)
+	at zmyth.net.NBConnectProducer.onTimer(NBConnectProducer.java:90)
+	at zmyth.timer.TimerEvent.fire(TimerEvent.java:182)
+	at zmyth.timer.TimerThread.run(TimerThread.java:122)
+2017-10-28 23:51:39,651 [Thread-11@zmyth.timer.TimerThread@1690235745/4000] WARN  zmyth.net.NBConnectProducer - collate error, url=zlib.net.URL@59c59535[tcp://127.0.0.1:8104/]
+zlib.net.DataAccessException:CLIENT_IO_ERROR, address=tcp://127.0.0.1:8104/, zmyth.net.NBTcpConnect open, ConnectException
+	at zmyth.net.NBTcpConnect.open(NBTcpConnect.java:302)
+	at zmyth.net.JConnectFactory.openTcpConnect(JConnectFactory.java:275)
+	at zmyth.net.JConnectFactory.openInstance(JConnectFactory.java:257)
+	at zmyth.net.JConnectFactory.getInstance(JConnectFactory.java:248)
+	at zlib.net.ConnectFactory.getConnect(ConnectFactory.java:46)
+	at zmyth.back.NBConnectRegisterProducer.getConnect(NBConnectRegisterProducer.java:52)
+	at zmyth.net.NBConnectProducer.collate(NBConnectProducer.java:106)
+	at zmyth.back.TimeNBConnectRegisterProducer.collate(TimeNBConnectRegisterProducer.java:47)
+	at zmyth.net.NBConnectProducer.onTimer(NBConnectProducer.java:90)
+	at zmyth.timer.TimerEvent.fire(TimerEvent.java:182)
+	at zmyth.timer.TimerThread.run(TimerThread.java:122)
+2017-10-28 23:51:39,651 [Thread-11@zmyth.timer.TimerThread@1690235745/4000] WARN  zmyth.net.NBConnectProducer - collate error, url=zlib.net.URL@59c59533[tcp://127.0.0.1:8102/]
+zlib.net.DataAccessException:CLIENT_IO_ERROR, address=tcp://127.0.0.1:8102/, zmyth.net.NBTcpConnect open, ConnectException
+	at zmyth.net.NBTcpConnect.open(NBTcpConnect.java:302)
+	at zmyth.net.JConnectFactory.openTcpConnect(JConnectFactory.java:275)
+	at zmyth.net.JConnectFactory.openInstance(JConnectFactory.java:257)
+	at zmyth.net.JConnectFactory.getInstance(JConnectFactory.java:248)
+	at zlib.net.ConnectFactory.getConnect(ConnectFactory.java:46)
+	at zmyth.back.NBConnectRegisterProducer.getConnect(NBConnectRegisterProducer.java:52)
+	at zmyth.net.NBConnectProducer.collate(NBConnectProducer.java:106)
+	at zmyth.back.TimeNBConnectRegisterProducer.collate(TimeNBConnectRegisterProducer.java:47)
+	at zmyth.net.NBConnectProducer.onTimer(NBConnectProducer.java:90)
+	at zmyth.timer.TimerEvent.fire(TimerEvent.java:182)
+	at zmyth.timer.TimerThread.run(TimerThread.java:122)
+2017-10-28 23:52:11,658 [Thread-11@zmyth.timer.TimerThread@1690235745/4000] WARN  zmyth.net.NBConnectProducer - collate error, url=zlib.net.URL@59c59535[tcp://127.0.0.1:8104/]
+zlib.net.DataAccessException:CLIENT_IO_ERROR, address=tcp://127.0.0.1:8104/, zmyth.net.NBTcpConnect open, ConnectException
+	at zmyth.net.NBTcpConnect.open(NBTcpConnect.java:302)
+	at zmyth.net.JConnectFactory.openTcpConnect(JConnectFactory.java:275)
+	at zmyth.net.JConnectFactory.openInstance(JConnectFactory.java:257)
+	at zmyth.net.JConnectFactory.getInstance(JConnectFactory.java:248)
+	at zlib.net.ConnectFactory.getConnect(ConnectFactory.java:46)
+	at zmyth.back.NBConnectRegisterProducer.getConnect(NBConnectRegisterProducer.java:52)
+	at zmyth.net.NBConnectProducer.collate(NBConnectProducer.java:106)
+	at zmyth.back.TimeNBConnectRegisterProducer.collate(TimeNBConnectRegisterProducer.java:47)
+	at zmyth.net.NBConnectProducer.onTimer(NBConnectProducer.java:90)
+	at zmyth.timer.TimerEvent.fire(TimerEvent.java:182)
+	at zmyth.timer.TimerThread.run(TimerThread.java:122)
+2017-10-28 23:52:11,658 [Thread-11@zmyth.timer.TimerThread@1690235745/4000] WARN  zmyth.net.NBConnectProducer - collate error, url=zlib.net.URL@59c59533[tcp://127.0.0.1:8102/]
+zlib.net.DataAccessException:CLIENT_IO_ERROR, address=tcp://127.0.0.1:8102/, zmyth.net.NBTcpConnect open, ConnectException
+	at zmyth.net.NBTcpConnect.open(NBTcpConnect.java:302)
+	at zmyth.net.JConnectFactory.openTcpConnect(JConnectFactory.java:275)
+	at zmyth.net.JConnectFactory.openInstance(JConnectFactory.java:257)
+	at zmyth.net.JConnectFactory.getInstance(JConnectFactory.java:248)
+	at zlib.net.ConnectFactory.getConnect(ConnectFactory.java:46)
+	at zmyth.back.NBConnectRegisterProducer.getConnect(NBConnectRegisterProducer.java:52)
+	at zmyth.net.NBConnectProducer.collate(NBConnectProducer.java:106)
+	at zmyth.back.TimeNBConnectRegisterProducer.collate(TimeNBConnectRegisterProducer.java:47)
+	at zmyth.net.NBConnectProducer.onTimer(NBConnectProducer.java:90)
+	at zmyth.timer.TimerEvent.fire(TimerEvent.java:182)
+	at zmyth.timer.TimerThread.run(TimerThread.java:122)
+2017-10-28 23:52:38,599 [Thread-3@zmyth.back.Main] INFO  zmyth.net.JConnectFactory - loop, zmyth.net.JConnectFactory@6f34a7d8[size=0, executor=zlib.thread.TaskPoolExecutor@69f78ef1[active=true, run=0, size=2, maxSize=256], serialExecute=false, runTime=20, pingTime=20000, collateTime=30000]
+2017-10-28 23:52:38,599 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1 zmyth.net.EchoPort@73d6776d
+2017-10-28 23:52:38,600 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=2 zmyth.net.PingPort@65faba46
+2017-10-28 23:52:38,602 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=4 zmyth.net.DataAccessHandler@692a3722
+2017-10-28 23:52:38,603 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1 zmyth.net.EchoPort@5289cf1e
+2017-10-28 23:52:38,603 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=2 zmyth.net.PingPort@557ce4e7
+2017-10-28 23:52:38,603 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=4 zmyth.net.DataAccessHandler@692a3722
+2017-10-28 23:52:38,604 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=6 zmyth.net.TimePort@acfec48
+2017-10-28 23:52:38,604 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=11 zmyth.net.AttributePort@4ee1d5ea
+2017-10-28 23:52:38,605 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=21 zmyth.net.FilePort@690da5eb
+2017-10-28 23:52:38,605 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=22 zmyth.net.FilePort@7f081d2e
+2017-10-28 23:52:38,606 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=9 zmyth.net.CPort@1d5a0305
+2017-10-28 23:52:38,634 [main@zmyth.xlib.Start] INFO  zmyth.back.Main - start, parse file=server.xml
+2017-10-28 23:52:38,648 [main@zmyth.xlib.Start] INFO  zmyth.back.Main - start, parse file=[resource]start.xml
+2017-10-28 23:52:38,651 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/textvalidity.xml
+2017-10-28 23:52:38,661 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/chapters.xml
+2017-10-28 23:52:38,668 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/task.xml
+2017-10-28 23:52:38,784 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/duplicates.xml
+2017-10-28 23:52:38,798 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/effectbuffer.xml
+2017-10-28 23:52:38,961 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/citys.xml
+2017-10-28 23:52:38,965 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/builds.xml
+2017-10-28 23:52:38,994 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/buildarea.xml
+2017-10-28 23:52:38,997 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/players.xml
+2017-10-28 23:52:39,010 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/props.xml
+2017-10-28 23:52:39,152 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/material.xml
+2017-10-28 23:52:39,388 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/awards.xml
+2017-10-28 23:52:39,443 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/skills.xml
+2017-10-28 23:52:39,487 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/spreads.xml
+2017-10-28 23:52:39,488 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/effects.xml
+2017-10-28 23:52:39,548 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/soldier.xml
+2017-10-28 23:52:39,560 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/visit.xml
+2017-10-28 23:52:39,568 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/roadway.xml
+2017-10-28 23:52:39,600 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/worldcity.xml
+2017-10-28 23:52:39,715 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/militarys.xml
+2017-10-28 23:52:39,800 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/equipmentsuit.xml
+2017-10-28 23:52:39,803 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/official.xml
+2017-10-28 23:52:39,808 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/shopProps.xml
+2017-10-28 23:52:39,811 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/mallProps.xml
+2017-10-28 23:52:39,827 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/openGemHole.xml
+2017-10-28 23:52:39,828 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/equipmentskill.xml
+2017-10-28 23:52:39,830 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/activitys.xml
+2017-10-28 23:52:39,839 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/banneret.xml
+2017-10-28 23:52:39,856 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/countrytasks.xml
+2017-10-28 23:52:39,858 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/famousgeneral.xml
+2017-10-28 23:52:39,862 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]serverstatic.xml
+2017-10-28 23:52:39,913 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]openServerstatic.xml
+2017-10-28 23:52:39,921 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]serverconfig.xml
+2017-10-28 23:52:40,193 [main@zmyth.xlib.Start] WARN  zmyth.xml.MethodParser - normalParse error, null specify object, zlib.xml.Element@64df83e5[count=3][line=294, name=method, attributes=2]
+2017-10-28 23:52:40,235 [main@zmyth.xlib.Start] WARN  zmyth.xml.MethodParser - normalParse error, null specify object, zlib.xml.Element@75568654[count=3][line=860, name=method, attributes=2]
+2017-10-28 23:52:40,235 [main@zmyth.xlib.Start] WARN  game.country.CountryDBAccess - load union fail, 0 type=1
+2017-10-28 23:52:40,383 [main@zmyth.xlib.Start] WARN  zmyth.orm.SqlKit - querys error, sql=select * from `cityfight zmyth.orm.ConnectionProxy@5e3ca754[used=true, usedCount=268, usedTime=1509205960377, com.mysql.jdbc.JDBC4Connection@600dac21] select=-1
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`cityfight' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1030)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3491)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3423)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1936)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2060)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2536)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2465)
+	at com.mysql.jdbc.StatementImpl.executeQuery(StatementImpl.java:1383)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:182)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:150)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:138)
+	at game.country.WorldMapCityFightDBAccess.getAllCityFight(WorldMapCityFightDBAccess.java:76)
+	at game.country.WorldMapCityFightManager.init(WorldMapCityFightManager.java:131)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at zlib.field.FieldKit.invoke(FieldKit.java:341)
+	at zmyth.xml.MethodParser.normalParse(MethodParser.java:150)
+	at zmyth.xml.NormalParser.parse(NormalParser.java:110)
+	at zmyth.xml.ObjectsParser.parseLoad(ObjectsParser.java:93)
+	at zmyth.xml.ObjectsParser.parseMacro(ObjectsParser.java:58)
+	at zmyth.xml.ObjectsParser.parse(ObjectsParser.java:37)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:430)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:423)
+	at zmyth.xml.FileParser.parse(FileParser.java:28)
+	at zmyth.xml.ObjectsParser.parseLoad(ObjectsParser.java:93)
+	at zmyth.xml.ObjectsParser.parseMacro(ObjectsParser.java:58)
+	at zmyth.xml.ObjectsParser.parse(ObjectsParser.java:37)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:430)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:423)
+	at zmyth.back.Main.start(Main.java:264)
+	at zmyth.back.Main.run(Main.java:79)
+	at zmyth.xlib.Start.run(Start.java:134)
+	at zmyth.xlib.Start.main(Start.java:60)
+2017-10-28 23:52:40,384 [main@zmyth.xlib.Start] WARN  zmyth.xml.MethodParser - normalParse error, method invoke, zlib.xml.Element@767a9224[count=0][line=866, name=method, attributes=2]
+java.lang.RuntimeException: zlib.field.FieldKit invoke, invoke, class=game.country.WorldMapCityFightManager, object=game.country.WorldMapCityFightManager@3fb2d7df, methodName=init args=0
+	at zlib.field.FieldKit.invoke(FieldKit.java:346)
+	at zmyth.xml.MethodParser.normalParse(MethodParser.java:150)
+	at zmyth.xml.NormalParser.parse(NormalParser.java:110)
+	at zmyth.xml.ObjectsParser.parseLoad(ObjectsParser.java:93)
+	at zmyth.xml.ObjectsParser.parseMacro(ObjectsParser.java:58)
+	at zmyth.xml.ObjectsParser.parse(ObjectsParser.java:37)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:430)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:423)
+	at zmyth.xml.FileParser.parse(FileParser.java:28)
+	at zmyth.xml.ObjectsParser.parseLoad(ObjectsParser.java:93)
+	at zmyth.xml.ObjectsParser.parseMacro(ObjectsParser.java:58)
+	at zmyth.xml.ObjectsParser.parse(ObjectsParser.java:37)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:430)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:423)
+	at zmyth.back.Main.start(Main.java:264)
+	at zmyth.back.Main.run(Main.java:79)
+	at zmyth.xlib.Start.run(Start.java:134)
+	at zmyth.xlib.Start.main(Start.java:60)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at zlib.field.FieldKit.invoke(FieldKit.java:341)
+	... 17 more
+Caused by: java.lang.RuntimeException: zmyth.orm.SqlKit querys, sql=select * from `cityfight
+	at zmyth.orm.SqlKit.querys(SqlKit.java:208)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:150)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:138)
+	at game.country.WorldMapCityFightDBAccess.getAllCityFight(WorldMapCityFightDBAccess.java:76)
+	at game.country.WorldMapCityFightManager.init(WorldMapCityFightManager.java:131)
+	... 22 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`cityfight' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1030)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3491)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3423)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1936)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2060)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2536)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2465)
+	at com.mysql.jdbc.StatementImpl.executeQuery(StatementImpl.java:1383)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:182)
+	... 26 more
+2017-10-28 23:52:40,402 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]serverport.xml
+2017-10-28 23:52:40,409 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=211 game.port.LoginAccessPort@7857ae58
+2017-10-28 23:52:40,410 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=212 game.port.LoadAccessPort@756f70a4
+2017-10-28 23:52:40,410 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=6 zmyth.net.TimePort@674c5b37
+2017-10-28 23:52:40,411 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=213 game.port.ExitPort@491cc367
+2017-10-28 23:52:40,411 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1000 game.port.SendMessagePort@7f60c4b0
+2017-10-28 23:52:40,411 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1001 game.port.MailAccessPort@2a114025
+2017-10-28 23:52:40,412 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1003 game.port.BundlePort@19f488f1
+2017-10-28 23:52:40,412 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1005 game.port.BuildAccessPort@54a9387
+2017-10-28 23:52:40,412 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1006 game.port.ShopPort@242da5a6
+2017-10-28 23:52:40,413 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1007 game.port.EquipmentPort@4406cef4
+2017-10-28 23:52:40,413 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1008 game.port.MilitaryAccessPort@1afd1810
+2017-10-28 23:52:40,415 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1009 game.port.TaskAccessPort@60a415a3
+2017-10-28 23:52:40,416 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1010 game.port.DailyTaskAccessPort@7a578dfb
+2017-10-28 23:52:40,416 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1012 game.port.FriendsPort@72813bc1
+2017-10-28 23:52:40,417 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1013 game.port.DuplicateAccessPort@2598c6f3
+2017-10-28 23:52:40,418 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1014 game.port.MallPort@1d716fa0
+2017-10-28 23:52:40,418 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1015 game.port.SoldierAccessPort@3eb3cac9
+2017-10-28 23:52:40,419 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1016 game.port.VisitAccessPort@5f78dc08
+2017-10-28 23:52:40,419 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1017 game.port.SciencePort@3ddfd90f
+2017-10-28 23:52:40,420 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1018 game.port.RankListPort@619646fd
+2017-10-28 23:52:40,420 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1019 game.port.ScienceCountryPort@1ee2433b
+2017-10-28 23:52:40,421 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1021 game.port.OfficialPort@3d9ea173
+2017-10-28 23:52:40,421 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1022 game.port.WorldFightAccessPort@7979a49f
+2017-10-28 23:52:40,421 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1023 game.port.MilitaryPassiveAccessPort@7b48392
+2017-10-28 23:52:40,422 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1025 game.port.FightLogAccessPort@43ce663c
+2017-10-28 23:52:40,422 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1026 game.port.ActivityDateAccessPort@578b1f8f
+2017-10-28 23:52:40,422 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1027 game.port.CountryInfoPort@4c2d0479
+2017-10-28 23:52:40,423 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1029 game.port.AllHeroFightActivityAccessPort@408fbecf
+2017-10-28 23:52:40,423 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1030 game.port.GiftPackageAccessPort@52158cc6
+2017-10-28 23:52:40,424 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1031 game.port.EquipmentPolishedPort@407e75d2
+2017-10-28 23:52:40,424 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1032 game.port.VipAccessPort@3c63e8c
+2017-10-28 23:52:40,425 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1034 game.port.DayFightScoreAccessPort@153b2cb
+2017-10-28 23:52:40,425 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1035 game.port.NoticeAccessPort@5c2bfdff
+2017-10-28 23:52:40,425 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1036 game.port.GuideAccessPort@c3fa6cd
+2017-10-28 23:52:40,426 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1037 game.port.OperatorActivityAccessPort@34b0ede5
+2017-10-28 23:52:40,426 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1038 game.port.OnlineGiftAccessPort@64d22462
+2017-10-28 23:52:40,427 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1039 game.port.ContributeActivityAccessPort@1d417690
+2017-10-28 23:52:40,427 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1040 game.port.CountryCityActivityAccessPort@7fb6634c
+2017-10-28 23:52:40,428 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1042 game.port.EmperorActivityAccessPort@5f873eb2
+2017-10-28 23:52:40,428 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1041 game.port.CountryTaskAsscessPort@2825491d
+2017-10-28 23:52:40,428 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1043 game.port.CimeliaAccessPort@31304043
+2017-10-28 23:52:40,429 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1044 game.port.WillGetAwardPort@2b76086d
+2017-10-28 23:52:40,429 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1045 game.port.TotalLoginActivityAccessPort@8dc1f04
+2017-10-28 23:52:40,430 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1047 game.port.CardAccessPort@64c272bc
+2017-10-28 23:52:40,430 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1046 game.port.OpenActivityAccessPort@1f758cd1
+2017-10-28 23:52:40,430 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1048 game.port.GambleAccessProt@a6a435f
+2017-10-28 23:52:40,431 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]gmconfig.xml
+2017-10-28 23:52:40,443 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/shop.xml
+2017-10-28 23:52:40,444 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/strengtheffect.xml
+2017-10-28 23:52:40,445 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/mall.xml
+2017-10-28 23:52:40,446 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/fightteam.xml
+2017-10-28 23:52:40,499 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/worldfight.xml
+2017-10-28 23:52:40,503 [main@zmyth.xlib.Start] WARN  zmyth.xml.MethodParser - normalParse error, null specify object, zlib.xml.Element@773829d5[count=3][line=94, name=method, attributes=2]
+2017-10-28 23:52:40,516 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/activityDate.xml
+2017-10-28 23:52:40,521 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]bsh.xml
+2017-10-28 23:52:40,580 [main@zmyth.xlib.Start] INFO  zmyth.back.Main - 
+
+server is start!
+
+

@@ -1,0 +1,2022 @@
+2017-10-29 00:00:49,205 [Thread-3@zmyth.back.Main] INFO  zmyth.net.JConnectFactory - loop, zmyth.net.JConnectFactory@6f34a7d8[size=0, executor=zlib.thread.TaskPoolExecutor@69f78ef1[active=true, run=0, size=2, maxSize=256], serialExecute=false, runTime=20, pingTime=20000, collateTime=30000]
+2017-10-29 00:00:49,206 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1 zmyth.net.EchoPort@53ad085
+2017-10-29 00:00:49,207 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=2 zmyth.net.PingPort@2fdb7df8
+2017-10-29 00:00:49,209 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=4 zmyth.net.DataAccessHandler@5289cf1e
+2017-10-29 00:00:49,209 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1 zmyth.net.EchoPort@557ce4e7
+2017-10-29 00:00:49,209 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=2 zmyth.net.PingPort@7a982589
+2017-10-29 00:00:49,209 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=4 zmyth.net.DataAccessHandler@5289cf1e
+2017-10-29 00:00:49,210 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=6 zmyth.net.TimePort@58a17083
+2017-10-29 00:00:49,211 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=11 zmyth.net.AttributePort@4ca31e1b
+2017-10-29 00:00:49,211 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=21 zmyth.net.FilePort@7f081d2e
+2017-10-29 00:00:49,211 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=22 zmyth.net.FilePort@6db3f829
+2017-10-29 00:00:49,212 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=9 zmyth.net.CPort@7c4c51
+2017-10-29 00:00:49,239 [main@zmyth.xlib.Start] INFO  zmyth.back.Main - start, parse file=server.xml
+2017-10-29 00:00:49,254 [main@zmyth.xlib.Start] INFO  zmyth.back.Main - start, parse file=[resource]start.xml
+2017-10-29 00:00:49,256 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/textvalidity.xml
+2017-10-29 00:00:49,266 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/chapters.xml
+2017-10-29 00:00:49,274 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/task.xml
+2017-10-29 00:00:49,387 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/duplicates.xml
+2017-10-29 00:00:49,400 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/effectbuffer.xml
+2017-10-29 00:00:49,558 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/citys.xml
+2017-10-29 00:00:49,561 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/builds.xml
+2017-10-29 00:00:49,591 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/buildarea.xml
+2017-10-29 00:00:49,594 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/players.xml
+2017-10-29 00:00:49,606 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/props.xml
+2017-10-29 00:00:49,738 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/material.xml
+2017-10-29 00:00:49,982 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/awards.xml
+2017-10-29 00:00:50,040 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/skills.xml
+2017-10-29 00:00:50,087 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/spreads.xml
+2017-10-29 00:00:50,089 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/effects.xml
+2017-10-29 00:00:50,143 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/soldier.xml
+2017-10-29 00:00:50,153 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/visit.xml
+2017-10-29 00:00:50,160 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/roadway.xml
+2017-10-29 00:00:50,187 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/worldcity.xml
+2017-10-29 00:00:50,315 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/militarys.xml
+2017-10-29 00:00:50,410 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/equipmentsuit.xml
+2017-10-29 00:00:50,413 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/official.xml
+2017-10-29 00:00:50,416 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/shopProps.xml
+2017-10-29 00:00:50,419 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/mallProps.xml
+2017-10-29 00:00:50,438 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/openGemHole.xml
+2017-10-29 00:00:50,440 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/equipmentskill.xml
+2017-10-29 00:00:50,443 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/activitys.xml
+2017-10-29 00:00:50,451 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/banneret.xml
+2017-10-29 00:00:50,468 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/countrytasks.xml
+2017-10-29 00:00:50,470 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]sample/famousgeneral.xml
+2017-10-29 00:00:50,475 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]serverstatic.xml
+2017-10-29 00:00:50,521 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]openServerstatic.xml
+2017-10-29 00:00:50,530 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]serverconfig.xml
+2017-10-29 00:00:50,808 [main@zmyth.xlib.Start] INFO  xlib.util.UidKit - player uid load ok,xlib.util.db.UidDBAccess@7461373f,type=1,number=1
+2017-10-29 00:00:50,808 [main@zmyth.xlib.Start] INFO  xlib.util.UidKit - mailUid load ok,xlib.util.db.UidDBAccess@44023756,type=2,number=1
+2017-10-29 00:00:50,809 [main@zmyth.xlib.Start] INFO  xlib.util.UidKit - fighTteamUid load ok,xlib.util.db.UidDBAccess@3175ade6,type=3,number=65535
+2017-10-29 00:00:50,809 [main@zmyth.xlib.Start] INFO  xlib.util.UidKit - fightLog uid load ok,xlib.util.db.UidDBAccess@47c297a3,type=4,number=1
+2017-10-29 00:00:50,809 [main@zmyth.xlib.Start] INFO  xlib.util.UidKit - activityAward uid load ok,xlib.util.db.UidDBAccess@203e1bc8,type=5,number=1
+2017-10-29 00:00:50,810 [main@zmyth.xlib.Start] INFO  xlib.util.UidKit - countryTask uid load ok,xlib.util.db.UidDBAccess@2a313170,type=6,number=1
+2017-10-29 00:00:50,810 [main@zmyth.xlib.Start] INFO  xlib.util.UidKit - willAward uid load ok,xlib.util.db.UidDBAccess@36afae4a,type=7,number=1
+2017-10-29 00:00:50,821 [main@zmyth.xlib.Start] WARN  zmyth.xml.MethodParser - normalParse error, null specify object, zlib.xml.Element@548997d1[count=3][line=294, name=method, attributes=2]
+2017-10-29 00:00:50,864 [main@zmyth.xlib.Start] WARN  zmyth.xml.MethodParser - normalParse error, null specify object, zlib.xml.Element@7185ad79[count=3][line=860, name=method, attributes=2]
+2017-10-29 00:00:50,864 [main@zmyth.xlib.Start] WARN  game.country.CountryDBAccess - load union fail, 0 type=1
+2017-10-29 00:00:51,013 [main@zmyth.xlib.Start] WARN  zmyth.orm.SqlKit - querys error, sql=select * from `cityfight zmyth.orm.ConnectionProxy@67148603[used=true, usedCount=247, usedTime=1509206451007, com.mysql.jdbc.JDBC4Connection@746a63d3] select=-1
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`cityfight' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1030)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3491)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3423)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1936)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2060)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2536)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2465)
+	at com.mysql.jdbc.StatementImpl.executeQuery(StatementImpl.java:1383)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:182)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:150)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:138)
+	at game.country.WorldMapCityFightDBAccess.getAllCityFight(WorldMapCityFightDBAccess.java:76)
+	at game.country.WorldMapCityFightManager.init(WorldMapCityFightManager.java:131)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at zlib.field.FieldKit.invoke(FieldKit.java:341)
+	at zmyth.xml.MethodParser.normalParse(MethodParser.java:150)
+	at zmyth.xml.NormalParser.parse(NormalParser.java:110)
+	at zmyth.xml.ObjectsParser.parseLoad(ObjectsParser.java:93)
+	at zmyth.xml.ObjectsParser.parseMacro(ObjectsParser.java:58)
+	at zmyth.xml.ObjectsParser.parse(ObjectsParser.java:37)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:430)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:423)
+	at zmyth.xml.FileParser.parse(FileParser.java:28)
+	at zmyth.xml.ObjectsParser.parseLoad(ObjectsParser.java:93)
+	at zmyth.xml.ObjectsParser.parseMacro(ObjectsParser.java:58)
+	at zmyth.xml.ObjectsParser.parse(ObjectsParser.java:37)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:430)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:423)
+	at zmyth.back.Main.start(Main.java:264)
+	at zmyth.back.Main.run(Main.java:79)
+	at zmyth.xlib.Start.run(Start.java:134)
+	at zmyth.xlib.Start.main(Start.java:60)
+2017-10-29 00:00:51,014 [main@zmyth.xlib.Start] WARN  zmyth.xml.MethodParser - normalParse error, method invoke, zlib.xml.Element@10cb42cf[count=0][line=866, name=method, attributes=2]
+java.lang.RuntimeException: zlib.field.FieldKit invoke, invoke, class=game.country.WorldMapCityFightManager, object=game.country.WorldMapCityFightManager@2db6235b, methodName=init args=0
+	at zlib.field.FieldKit.invoke(FieldKit.java:346)
+	at zmyth.xml.MethodParser.normalParse(MethodParser.java:150)
+	at zmyth.xml.NormalParser.parse(NormalParser.java:110)
+	at zmyth.xml.ObjectsParser.parseLoad(ObjectsParser.java:93)
+	at zmyth.xml.ObjectsParser.parseMacro(ObjectsParser.java:58)
+	at zmyth.xml.ObjectsParser.parse(ObjectsParser.java:37)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:430)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:423)
+	at zmyth.xml.FileParser.parse(FileParser.java:28)
+	at zmyth.xml.ObjectsParser.parseLoad(ObjectsParser.java:93)
+	at zmyth.xml.ObjectsParser.parseMacro(ObjectsParser.java:58)
+	at zmyth.xml.ObjectsParser.parse(ObjectsParser.java:37)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:430)
+	at zmyth.xml.ClassNameXmlContext.parse(ClassNameXmlContext.java:423)
+	at zmyth.back.Main.start(Main.java:264)
+	at zmyth.back.Main.run(Main.java:79)
+	at zmyth.xlib.Start.run(Start.java:134)
+	at zmyth.xlib.Start.main(Start.java:60)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at zlib.field.FieldKit.invoke(FieldKit.java:341)
+	... 17 more
+Caused by: java.lang.RuntimeException: zmyth.orm.SqlKit querys, sql=select * from `cityfight
+	at zmyth.orm.SqlKit.querys(SqlKit.java:208)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:150)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:138)
+	at game.country.WorldMapCityFightDBAccess.getAllCityFight(WorldMapCityFightDBAccess.java:76)
+	at game.country.WorldMapCityFightManager.init(WorldMapCityFightManager.java:131)
+	... 22 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`cityfight' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1030)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3491)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3423)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1936)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2060)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2536)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2465)
+	at com.mysql.jdbc.StatementImpl.executeQuery(StatementImpl.java:1383)
+	at zmyth.orm.SqlKit.querys(SqlKit.java:182)
+	... 26 more
+2017-10-29 00:00:51,032 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]serverport.xml
+2017-10-29 00:00:51,039 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=211 game.port.LoginAccessPort@27e91a4d
+2017-10-29 00:00:51,039 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=212 game.port.LoadAccessPort@340523df
+2017-10-29 00:00:51,040 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=6 zmyth.net.TimePort@3d762027
+2017-10-29 00:00:51,040 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=213 game.port.ExitPort@782cbc86
+2017-10-29 00:00:51,041 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1000 game.port.SendMessagePort@410d3f0d
+2017-10-29 00:00:51,041 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1001 game.port.MailAccessPort@4ca68fd8
+2017-10-29 00:00:51,042 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1003 game.port.BundlePort@6f27f79d
+2017-10-29 00:00:51,042 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1005 game.port.BuildAccessPort@28f19d6e
+2017-10-29 00:00:51,042 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1006 game.port.ShopPort@4876db09
+2017-10-29 00:00:51,043 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1007 game.port.EquipmentPort@589260ee
+2017-10-29 00:00:51,043 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1008 game.port.MilitaryAccessPort@7219d6af
+2017-10-29 00:00:51,043 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1009 game.port.TaskAccessPort@3a42f352
+2017-10-29 00:00:51,043 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1010 game.port.DailyTaskAccessPort@125d855f
+2017-10-29 00:00:51,044 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1012 game.port.FriendsPort@6a1681ea
+2017-10-29 00:00:51,044 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1013 game.port.DuplicateAccessPort@402fb002
+2017-10-29 00:00:51,045 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1014 game.port.MallPort@46ed5d9d
+2017-10-29 00:00:51,045 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1015 game.port.SoldierAccessPort@273d1402
+2017-10-29 00:00:51,046 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1016 game.port.VisitAccessPort@25dd9891
+2017-10-29 00:00:51,046 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1017 game.port.SciencePort@785e8d7d
+2017-10-29 00:00:51,047 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1018 game.port.RankListPort@6364cbde
+2017-10-29 00:00:51,047 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1019 game.port.ScienceCountryPort@40bb2bc3
+2017-10-29 00:00:51,047 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1021 game.port.OfficialPort@25a41cc7
+2017-10-29 00:00:51,047 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1022 game.port.WorldFightAccessPort@395d601f
+2017-10-29 00:00:51,048 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1023 game.port.MilitaryPassiveAccessPort@7a2431b9
+2017-10-29 00:00:51,048 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1025 game.port.FightLogAccessPort@600dac21
+2017-10-29 00:00:51,048 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1026 game.port.ActivityDateAccessPort@616fdac
+2017-10-29 00:00:51,049 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1027 game.port.CountryInfoPort@3fb2d7df
+2017-10-29 00:00:51,049 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1029 game.port.AllHeroFightActivityAccessPort@6910b640
+2017-10-29 00:00:51,049 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1030 game.port.GiftPackageAccessPort@1958015a
+2017-10-29 00:00:51,050 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1031 game.port.EquipmentPolishedPort@10b914b3
+2017-10-29 00:00:51,050 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1032 game.port.VipAccessPort@2cc22a3b
+2017-10-29 00:00:51,050 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1034 game.port.DayFightScoreAccessPort@23904e0d
+2017-10-29 00:00:51,051 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1035 game.port.NoticeAccessPort@4013fba1
+2017-10-29 00:00:51,052 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1036 game.port.GuideAccessPort@4ad61aef
+2017-10-29 00:00:51,052 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1037 game.port.OperatorActivityAccessPort@734b84c7
+2017-10-29 00:00:51,052 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1038 game.port.OnlineGiftAccessPort@23b17d49
+2017-10-29 00:00:51,053 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1039 game.port.ContributeActivityAccessPort@2031688f
+2017-10-29 00:00:51,053 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1040 game.port.CountryCityActivityAccessPort@5bf9e31e
+2017-10-29 00:00:51,054 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1042 game.port.EmperorActivityAccessPort@7ae0c7c3
+2017-10-29 00:00:51,054 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1041 game.port.CountryTaskAsscessPort@3b5b123b
+2017-10-29 00:00:51,055 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1043 game.port.CimeliaAccessPort@77fe4169
+2017-10-29 00:00:51,055 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1044 game.port.WillGetAwardPort@5ebbfa5c
+2017-10-29 00:00:51,055 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1045 game.port.TotalLoginActivityAccessPort@5b0d95cd
+2017-10-29 00:00:51,056 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1047 game.port.CardAccessPort@61128f5a
+2017-10-29 00:00:51,056 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1046 game.port.OpenActivityAccessPort@18f42160
+2017-10-29 00:00:51,057 [main@zmyth.xlib.Start] INFO  zmyth.net.PortService - setPort, port=1048 game.port.GambleAccessProt@36eb7331
+2017-10-29 00:00:51,057 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]gmconfig.xml
+2017-10-29 00:00:51,071 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/shop.xml
+2017-10-29 00:00:51,072 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/strengtheffect.xml
+2017-10-29 00:00:51,073 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/mall.xml
+2017-10-29 00:00:51,074 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/fightteam.xml
+2017-10-29 00:00:51,125 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/worldfight.xml
+2017-10-29 00:00:51,131 [main@zmyth.xlib.Start] WARN  zmyth.xml.MethodParser - normalParse error, null specify object, zlib.xml.Element@578b1f8f[count=3][line=94, name=method, attributes=2]
+2017-10-29 00:00:51,144 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]cfg/activityDate.xml
+2017-10-29 00:00:51,148 [main@zmyth.xlib.Start] INFO  zmyth.xml.FileParser - start, parse file=[resource]bsh.xml
+2017-10-29 00:00:51,202 [main@zmyth.xlib.Start] INFO  zmyth.back.Main - 
+
+server is start!
+
+
+2017-10-29 00:51:33,593 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=KAH33OjcR7bfRcHXRcDbMVIop88o,plantID=1,serverID=1
+2017-10-29 00:51:50,701 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=KAH33OjcR7bfRcHXRcDbMVIop88o,plantID=1,serverID=1
+2017-10-29 00:52:07,370 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=KAH33OjcR7bfRcHXRcDbMVIop88o,plantID=1,serverID=1
+2017-10-29 01:02:10,806 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, secondThread timeout, Thread[Thread-6@zmyth.timer.TimerThread@1096264275/200,5,main][active=true, runTime=200, timeout=10000, runStartTime=1509209550503, runEndTime=1509209550503]
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at com.mysql.jdbc.util.ReadAheadInputStream.fill(ReadAheadInputStream.java:113)
+	at com.mysql.jdbc.util.ReadAheadInputStream.readFromUnderlyingStreamIfNecessary(ReadAheadInputStream.java:160)
+	at com.mysql.jdbc.util.ReadAheadInputStream.read(ReadAheadInputStream.java:188)
+	at com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:2428)
+	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:2882)
+	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:2871)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3414)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1936)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2060)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2536)
+	at com.mysql.jdbc.ConnectionImpl.commit(ConnectionImpl.java:1543)
+	at zmyth.orm.ConnectionProxy.commit(ConnectionProxy.java:194)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:201)
+	at game.bi.BiMsgDBAccess.save(BiMsgDBAccess.java:28)
+	at game.bi.DsBiManager.onTimer(DsBiManager.java:590)
+	at zmyth.timer.TimerEvent.fire(TimerEvent.java:182)
+	at zmyth.timer.TimerThread.run(TimerThread.java:122)
+
+2017-10-29 01:02:10,817 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, secondThread start, Thread[Thread-17@zmyth.timer.TimerThread@834961640/200,5,main][active=true, runTime=200, timeout=10000, runStartTime=1509210130806, runEndTime=1509210130806]
+2017-10-29 01:02:23,002 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=8YiMUOjcR7bfRcHXRcDbMVIu7e8m,plantID=1,serverID=1
+2017-10-29 01:02:30,003 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=8YiMUOjcR7bfRcHXRcDbMVIu7e8m,plantID=1,serverID=1
+2017-10-29 01:02:37,657 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=8YiMUOjcR7bfRcHXRcDbMVIu7e8m,plantID=1,serverID=1
+2017-10-29 01:02:57,332 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=8YiMUOjcR7bfRcHXRcDbMVIu7e8m,plantID=1,serverID=1
+2017-10-29 01:03:48,763 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=8YiMUOjcR7bfRcHXRcDbMVIu7e8m,plantID=1,serverID=1
+2017-10-29 01:15:18,553 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread timeout, Thread[Thread-11@zmyth.timer.TimerThread@979582289/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509210499334, runEndTime=1509210499334]
+	at java.lang.Thread.sleep(Native Method)
+	at zmyth.timer.TimerThread.run(TimerThread.java:125)
+
+2017-10-29 01:15:18,554 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread start, Thread[Thread-18@zmyth.timer.TimerThread@1402291950/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509210918553, runEndTime=1509210918553]
+2017-10-29 01:18:18,852 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=4JtrtujcR7bfRcHXRcDbMVIxo88n,plantID=1,serverID=1
+2017-10-29 01:18:29,503 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=4JtrtujcR7bfRcHXRcDbMVIxo88n,plantID=1,serverID=1
+2017-10-29 01:40:30,897 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread timeout, Thread[Thread-18@zmyth.timer.TimerThread@1402291950/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509211129055, runEndTime=1509211129055]
+	at java.lang.Thread.sleep(Native Method)
+	at zmyth.timer.TimerThread.run(TimerThread.java:125)
+
+2017-10-29 01:40:30,897 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread start, Thread[Thread-19@zmyth.timer.TimerThread@1312432211/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509212430897, runEndTime=1509212430897]
+2017-10-29 01:41:02,268 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=3XCUEejcR7bfRcHXRcDbMVJ0688o,plantID=1,serverID=1
+2017-10-29 01:41:07,753 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=3XCUEejcR7bfRcHXRcDbMVJ0688o,plantID=1,serverID=1
+2017-10-29 01:43:05,413 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=3XCUEejcR7bfRcHXRcDbMVJ0688o,plantID=1,serverID=1
+2017-10-29 01:43:46,628 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=3XCUEejcR7bfRcHXRcDbMVJ0688o,plantID=1,serverID=1
+2017-10-29 01:44:47,723 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=3XCUEejcR7bfRcHXRcDbMVJ0688o,plantID=1,serverID=1
+2017-10-29 01:53:05,732 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread timeout, Thread[Thread-19@zmyth.timer.TimerThread@1312432211/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509212703950, runEndTime=1509212703950]
+	at java.lang.Thread.sleep(Native Method)
+	at zmyth.timer.TimerThread.run(TimerThread.java:125)
+
+2017-10-29 01:53:05,732 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread start, Thread[Thread-20@zmyth.timer.TimerThread@2032204138/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509213185732, runEndTime=1509213185732]
+2017-10-29 01:53:17,126 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=3XCUEejcR7bfRcHXRcDbMVJ0688o,plantID=1,serverID=1
+2017-10-29 01:54:18,467 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=3XCUEejcR7bfRcHXRcDbMVJ0688o,plantID=1,serverID=1
+2017-10-29 01:58:06,930 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread timeout, Thread[Thread-20@zmyth.timer.TimerThread@2032204138/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509213268237, runEndTime=1509213268237]
+	at java.lang.Thread.sleep(Native Method)
+	at zmyth.timer.TimerThread.run(TimerThread.java:125)
+
+2017-10-29 01:58:06,930 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread start, Thread[Thread-21@zmyth.timer.TimerThread@1564795053/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509213486930, runEndTime=1509213486930]
+2017-10-29 01:58:18,218 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=3XCUEejcR7bfRcHXRcDbMVJ0688o,plantID=1,serverID=1
+2017-10-29 02:18:26,792 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread timeout, Thread[Thread-21@zmyth.timer.TimerThread@1564795053/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509213586447, runEndTime=1509213586447]
+	at java.lang.Thread.sleep(Native Method)
+	at zmyth.timer.TimerThread.run(TimerThread.java:125)
+
+2017-10-29 02:18:26,792 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread start, Thread[Thread-22@zmyth.timer.TimerThread@308911605/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509214706792, runEndTime=1509214706792]
+2017-10-29 02:49:33,572 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread timeout, Thread[Thread-22@zmyth.timer.TimerThread@308911605/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509214881933, runEndTime=1509214881933]
+	at java.lang.Thread.sleep(Native Method)
+	at zmyth.timer.TimerThread.run(TimerThread.java:125)
+
+2017-10-29 02:49:33,573 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread start, Thread[Thread-23@zmyth.timer.TimerThread@693618623/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509216573572, runEndTime=1509216573572]
+2017-10-29 02:49:50,694 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=T1ndpujcR7bfRcHXRcDbMVJEie8m,plantID=1,serverID=1
+2017-10-29 02:50:04,378 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=T1ndpujcR7bfRcHXRcDbMVJEie8m,plantID=1,serverID=1
+2017-10-29 02:50:07,200 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=T1ndpujcR7bfRcHXRcDbMVJEie8m,plantID=1,serverID=1
+2017-10-29 02:50:51,981 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=T1ndpujcR7bfRcHXRcDbMVJEie8m,plantID=1,serverID=1
+2017-10-29 02:51:03,430 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=T1ndpujcR7bfRcHXRcDbMVJEie8m,plantID=1,serverID=1
+2017-10-29 02:51:33,676 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=L1ncU8jcR7bfRcHXRcDbMVJHiO8m,plantID=1,serverID=1
+2017-10-29 02:51:35,131 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=L1ncU8jcR7bfRcHXRcDbMVJHiO8m,plantID=1,serverID=1
+2017-10-29 02:51:36,553 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=L1ncU8jcR7bfRcHXRcDbMVJHiO8m,plantID=1,serverID=1
+2017-10-29 02:51:37,743 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=L1ncU8jcR7bfRcHXRcDbMVJHiO8m,plantID=1,serverID=1
+2017-10-29 02:51:39,925 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=L1ncU8jcR7bfRcHXRcDbMVJHiO8m,plantID=1,serverID=1
+2017-10-29 02:51:50,809 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=L1ncU8jcR7bfRcHXRcDbMVJHiO8m,plantID=1,serverID=1
+2017-10-29 02:51:56,271 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=L1ncU8jcR7bfRcHXRcDbMVJHiO8m,plantID=1,serverID=1
+2017-10-29 02:51:59,463 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=L1ncU8jcR7bfRcHXRcDbMVJHiO8m,plantID=1,serverID=1
+2017-10-29 02:52:01,094 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=L1ncU8jcR7bfRcHXRcDbMVJHiO8m,plantID=1,serverID=1
+2017-10-29 02:52:05,108 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=L1ncU8jcR7bfRcHXRcDbMVJHiO8m,plantID=1,serverID=1
+2017-10-29 02:52:12,675 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=L1ncU8jcR7bfRcHXRcDbMVJHiO8m,plantID=1,serverID=1
+2017-10-29 02:53:48,788 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=QAxHn8jcR7bfRcHXRcDbMVJIEe8m,plantID=1,serverID=1
+2017-10-29 02:53:52,907 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=QAxHn8jcR7bfRcHXRcDbMVJIEe8m,plantID=1,serverID=1
+2017-10-29 03:01:32,569 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread timeout, Thread[Thread-23@zmyth.timer.TimerThread@693618623/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509216847390, runEndTime=1509216847390]
+	at java.lang.Thread.sleep(Native Method)
+	at zmyth.timer.TimerThread.run(TimerThread.java:125)
+
+2017-10-29 03:01:32,569 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread start, Thread[Thread-24@zmyth.timer.TimerThread@1570655525/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509217292569, runEndTime=1509217292569]
+2017-10-29 03:01:40,491 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=QAxHn8jcR7bfRcHXRcDbMVJIEe8m,plantID=1,serverID=1
+2017-10-29 03:01:45,558 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=QAxHn8jcR7bfRcHXRcDbMVJIEe8m,plantID=1,serverID=1
+2017-10-29 03:15:39,348 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread timeout, Thread[Thread-24@zmyth.timer.TimerThread@1570655525/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509217326420, runEndTime=1509217326420]
+	at java.lang.Thread.sleep(Native Method)
+	at zmyth.timer.TimerThread.run(TimerThread.java:125)
+
+2017-10-29 03:15:39,349 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread start, Thread[Thread-25@zmyth.timer.TimerThread@14127028/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509218139348, runEndTime=1509218139348]
+2017-10-29 03:15:50,981 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=5s8qI8jcR7bfRcHXRcDbMVJNPO8m,plantID=1,serverID=1
+2017-10-29 03:15:54,545 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=5s8qI8jcR7bfRcHXRcDbMVJNPO8m,plantID=1,serverID=1
+2017-10-29 03:15:57,199 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=5s8qI8jcR7bfRcHXRcDbMVJNPO8m,plantID=1,serverID=1
+2017-10-29 03:15:59,486 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=5s8qI8jcR7bfRcHXRcDbMVJNPO8m,plantID=1,serverID=1
+2017-10-29 03:16:00,858 [Thread-2@zlib.thread.TaskQueueExecutor@1158576396-1/255] WARN  game.httpchannel.GetRolePidChannelHandler - certify sid is invalid,uid=flyindance,certifyID=5s8qI8jcR7bfRcHXRcDbMVJNPO8m,plantID=1,serverID=1
+2017-10-29 04:31:46,560 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread timeout, Thread[Thread-25@zmyth.timer.TimerThread@14127028/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509218506433, runEndTime=1509218506433]
+	at java.lang.Thread.sleep(Native Method)
+	at zmyth.timer.TimerThread.run(TimerThread.java:125)
+
+2017-10-29 04:31:46,560 [Thread-5@zmyth.timer.TimerCenter@197005066/1000] WARN  zmyth.timer.TimerCenter - collate, minuteThread start, Thread[Thread-26@zmyth.timer.TimerThread@68226541/4000,5,main][active=true, runTime=4000, timeout=200000, runStartTime=1509222706560, runEndTime=1509222706560]
+2017-10-29 12:24:29,351 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from world_fight where id=1
+java.sql.SQLException: Query execution was interrupted
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1055)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3491)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3423)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1936)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2060)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2536)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2465)
+	at com.mysql.jdbc.StatementImpl.executeQuery(StatementImpl.java:1383)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:149)
+	at game.country.activity.AllHeroActivityFight.save(AllHeroActivityFight.java:199)
+	at game.country.activity.AllHeroActivityFight.collect(AllHeroActivityFight.java:762)
+	at game.country.activity.ActivityTimerManager.collect(ActivityTimerManager.java:185)
+	at game.country.activity.ActivityTimerManager.shutdown(ActivityTimerManager.java:143)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,353 [Thread-9] ERROR game.country.activity.AllHeroActivityFight - save fail, -1 game.country.activity.AllHeroActivityFight@12882622
+2017-10-29 12:24:29,355 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.activity.CountryCityActivityFight.save(CountryCityActivityFight.java:975)
+	at game.country.activity.CountryCityActivityFight.collect(CountryCityActivityFight.java:803)
+	at game.country.activity.ActivityTimerManager.collect(ActivityTimerManager.java:185)
+	at game.country.activity.ActivityTimerManager.shutdown(ActivityTimerManager.java:143)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 19 more
+2017-10-29 12:24:29,356 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from world_fight where id=3
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.activity.CountryCityActivityFight.save(CountryCityActivityFight.java:975)
+	at game.country.activity.CountryCityActivityFight.collect(CountryCityActivityFight.java:803)
+	at game.country.activity.ActivityTimerManager.collect(ActivityTimerManager.java:185)
+	at game.country.activity.ActivityTimerManager.shutdown(ActivityTimerManager.java:143)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,357 [Thread-9] ERROR game.country.activity.CountryCityActivityFight - save fail, -1 game.country.activity.CountryCityActivityFight@4daba2ee
+2017-10-29 12:24:29,358 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.activity.ContributeActivityManager.save(ContributeActivityManager.java:571)
+	at game.country.activity.ContributeActivityManager.collect(ContributeActivityManager.java:655)
+	at game.country.activity.ActivityTimerManager.collect(ActivityTimerManager.java:185)
+	at game.country.activity.ActivityTimerManager.shutdown(ActivityTimerManager.java:143)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 19 more
+2017-10-29 12:24:29,358 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from world_fight where id=2
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.activity.ContributeActivityManager.save(ContributeActivityManager.java:571)
+	at game.country.activity.ContributeActivityManager.collect(ContributeActivityManager.java:655)
+	at game.country.activity.ActivityTimerManager.collect(ActivityTimerManager.java:185)
+	at game.country.activity.ActivityTimerManager.shutdown(ActivityTimerManager.java:143)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,358 [Thread-9] ERROR game.country.activity.ContributeActivityManager - save fail, -1 game.country.activity.ContributeActivityManager@3f55df18
+2017-10-29 12:24:29,360 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.activity.EmperorActivityFight.save(EmperorActivityFight.java:209)
+	at game.country.activity.EmperorActivityFight.collect(EmperorActivityFight.java:620)
+	at game.country.activity.ActivityTimerManager.collect(ActivityTimerManager.java:185)
+	at game.country.activity.ActivityTimerManager.shutdown(ActivityTimerManager.java:143)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 19 more
+2017-10-29 12:24:29,361 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from world_fight where id=7
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.activity.EmperorActivityFight.save(EmperorActivityFight.java:209)
+	at game.country.activity.EmperorActivityFight.collect(EmperorActivityFight.java:620)
+	at game.country.activity.ActivityTimerManager.collect(ActivityTimerManager.java:185)
+	at game.country.activity.ActivityTimerManager.shutdown(ActivityTimerManager.java:143)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,361 [Thread-9] ERROR game.country.activity.EmperorActivityFight - save fail, -1 game.country.activity.EmperorActivityFight@1ea9c124
+2017-10-29 12:24:29,364 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.CountryDBAccess.saveConvene(CountryDBAccess.java:238)
+	at game.country.WorldMapManager.saveConvene(WorldMapManager.java:2647)
+	at game.country.WorldMapManager.shutdown(WorldMapManager.java:2660)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,364 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from country where type=1
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.CountryDBAccess.saveConvene(CountryDBAccess.java:238)
+	at game.country.WorldMapManager.saveConvene(WorldMapManager.java:2647)
+	at game.country.WorldMapManager.shutdown(WorldMapManager.java:2660)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,364 [Thread-9] ERROR game.country.CountryDBAccess - save fail, -1 1
+2017-10-29 12:24:29,365 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.CountryDBAccess.saveConvene(CountryDBAccess.java:238)
+	at game.country.WorldMapManager.saveConvene(WorldMapManager.java:2649)
+	at game.country.WorldMapManager.shutdown(WorldMapManager.java:2660)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,366 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from country where type=2
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.CountryDBAccess.saveConvene(CountryDBAccess.java:238)
+	at game.country.WorldMapManager.saveConvene(WorldMapManager.java:2649)
+	at game.country.WorldMapManager.shutdown(WorldMapManager.java:2660)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,366 [Thread-9] ERROR game.country.CountryDBAccess - save fail, -1 2
+2017-10-29 12:24:29,367 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.CountryDBAccess.saveConvene(CountryDBAccess.java:238)
+	at game.country.WorldMapManager.saveConvene(WorldMapManager.java:2651)
+	at game.country.WorldMapManager.shutdown(WorldMapManager.java:2660)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,367 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from country where type=3
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.CountryDBAccess.saveConvene(CountryDBAccess.java:238)
+	at game.country.WorldMapManager.saveConvene(WorldMapManager.java:2651)
+	at game.country.WorldMapManager.shutdown(WorldMapManager.java:2660)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,367 [Thread-9] ERROR game.country.CountryDBAccess - save fail, -1 3
+2017-10-29 12:24:29,369 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.CountryDBAccess.save(CountryDBAccess.java:74)
+	at game.country.Country.saveCountry(Country.java:699)
+	at game.country.WorldMapManager.saveCountry(WorldMapManager.java:2361)
+	at game.country.WorldMapManager.saveCountry(WorldMapManager.java:2352)
+	at game.country.WorldMapManager.collect(WorldMapManager.java:1148)
+	at game.country.WorldMapManager.shutdown(WorldMapManager.java:2661)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 21 more
+2017-10-29 12:24:29,369 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from country where type=1
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.CountryDBAccess.save(CountryDBAccess.java:74)
+	at game.country.Country.saveCountry(Country.java:699)
+	at game.country.WorldMapManager.saveCountry(WorldMapManager.java:2361)
+	at game.country.WorldMapManager.saveCountry(WorldMapManager.java:2352)
+	at game.country.WorldMapManager.collect(WorldMapManager.java:1148)
+	at game.country.WorldMapManager.shutdown(WorldMapManager.java:2661)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,369 [Thread-9] ERROR game.country.CountryDBAccess - save fail, -1 game.country.Country@1ac73236
+2017-10-29 12:24:29,370 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.CountryDBAccess.save(CountryDBAccess.java:74)
+	at game.country.Country.saveCountry(Country.java:699)
+	at game.country.WorldMapManager.saveCountry(WorldMapManager.java:2361)
+	at game.country.WorldMapManager.saveCountry(WorldMapManager.java:2354)
+	at game.country.WorldMapManager.collect(WorldMapManager.java:1148)
+	at game.country.WorldMapManager.shutdown(WorldMapManager.java:2661)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 21 more
+2017-10-29 12:24:29,371 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from country where type=2
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.CountryDBAccess.save(CountryDBAccess.java:74)
+	at game.country.Country.saveCountry(Country.java:699)
+	at game.country.WorldMapManager.saveCountry(WorldMapManager.java:2361)
+	at game.country.WorldMapManager.saveCountry(WorldMapManager.java:2354)
+	at game.country.WorldMapManager.collect(WorldMapManager.java:1148)
+	at game.country.WorldMapManager.shutdown(WorldMapManager.java:2661)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,371 [Thread-9] ERROR game.country.CountryDBAccess - save fail, -1 game.country.Country@bb184f6
+2017-10-29 12:24:29,372 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.CountryDBAccess.save(CountryDBAccess.java:74)
+	at game.country.Country.saveCountry(Country.java:699)
+	at game.country.WorldMapManager.saveCountry(WorldMapManager.java:2361)
+	at game.country.WorldMapManager.saveCountry(WorldMapManager.java:2356)
+	at game.country.WorldMapManager.collect(WorldMapManager.java:1148)
+	at game.country.WorldMapManager.shutdown(WorldMapManager.java:2661)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 21 more
+2017-10-29 12:24:29,372 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from country where type=3
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.country.CountryDBAccess.save(CountryDBAccess.java:74)
+	at game.country.Country.saveCountry(Country.java:699)
+	at game.country.WorldMapManager.saveCountry(WorldMapManager.java:2361)
+	at game.country.WorldMapManager.saveCountry(WorldMapManager.java:2356)
+	at game.country.WorldMapManager.collect(WorldMapManager.java:1148)
+	at game.country.WorldMapManager.shutdown(WorldMapManager.java:2661)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,373 [Thread-9] ERROR game.country.CountryDBAccess - save fail, -1 game.country.Country@33903879
+2017-10-29 12:24:29,374 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,374 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=1
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,375 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,376 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=2
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,377 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,377 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=3
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,378 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,379 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=4
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,380 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,381 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=5
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,382 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,383 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=6
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,384 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,384 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=7
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,386 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,387 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=8
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,388 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,388 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=9
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,389 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,390 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=10
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,391 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,392 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=11
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,393 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,393 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=12
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,394 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,395 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=13
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,396 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,397 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=14
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,398 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,398 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=15
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,400 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,400 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=17
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,401 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,401 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=19
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,402 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,403 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=18
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,404 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,404 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=21
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,406 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,406 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=20
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,409 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,409 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=23
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,410 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,411 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=22
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+2017-10-29 12:24:29,412 [Thread-9] WARN  zmyth.orm.ConnectionManager - createConnection, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.GeneratedConstructorAccessor49.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor47.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at zmyth.orm.ConnectionManager.createConnection(ConnectionManager.java:241)
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:269)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:241)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:228)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:431)
+	at java.net.Socket.connect(Socket.java:527)
+	at java.net.Socket.connect(Socket.java:476)
+	at java.net.Socket.<init>(Socket.java:373)
+	at java.net.Socket.<init>(Socket.java:216)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 18 more
+2017-10-29 12:24:29,412 [Thread-9] WARN  zmyth.orm.SqlPersistence - set error, select * from ranks_show where type=24
+java.lang.IllegalStateException: zmyth.orm.ConnectionManager@287f8baf getConnection, driver=com.mysql.jdbc.Driver, url=jdbc:mysql://127.0.0.1:3306/zsg_rc
+	at zmyth.orm.ConnectionManager.getConnection(ConnectionManager.java:271)
+	at zmyth.orm.SqlPersistence.set(SqlPersistence.java:145)
+	at game.ranklist.RankListDBAccess.saveShowRank(RankListDBAccess.java:160)
+	at game.ranklist.RankCacheManager.saveRank(RankCacheManager.java:147)
+	at game.ranklist.RankManager.shutdown(RankManager.java:789)
+	at xlib.shutdown.ShutdownHook.shutdown(ShutdownHook.java:81)
+	at xlib.shutdown.ShutdownHook$1.run(ShutdownHook.java:66)
